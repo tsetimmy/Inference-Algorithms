@@ -1,1 +1,1 @@
-ECE521: Inference Algorithms LOL
+ECE521: Inference Algorithms
