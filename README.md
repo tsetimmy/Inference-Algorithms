@@ -1,1 +1,1 @@
-ECE521: Inference Algorithms SMall edit!!
+ECE521: Inference Algorithms
