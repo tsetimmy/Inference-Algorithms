@@ -2,7 +2,7 @@ import pickle
 import math
 #import numpy as np
 
-mnist_file = "~/mnist.pkl"
+mnist_file = "../../mnist.pkl"
 f =  open(mnist_file, "rb")
 print("File opened")
 mnist_data = pickle.load(f)
