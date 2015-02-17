@@ -4,9 +4,6 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 
 def sigmoid (a):
-#  fucker = (1.0/(1.0+np.exp(-a)))
-#  print(fucker)
-#  return fucker
   return (1.0/(1.0+np.exp(-a)))
 
 def diff_sigmoid (a):
