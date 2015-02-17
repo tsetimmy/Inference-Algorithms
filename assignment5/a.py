@@ -1,6 +1,6 @@
 import pickle
 import math
-#import numpy as np
+import numpy as np
 
 mnist_file = "../../mnist.pkl"
 f =  open(mnist_file, "rb")
